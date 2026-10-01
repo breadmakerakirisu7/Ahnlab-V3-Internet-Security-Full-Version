@@ -236,4 +236,4 @@ This repository serves as the official landing page for AhnLab V3 Internet Secur
 **Get the most recent version of AhnLab V3 Internet Security today!**
 
 ---
-**Last updated:** 2026-09-30 22:40:12 UTC
+**Last updated:** 2026-10-01 01:37:17 UTC
